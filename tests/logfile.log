@@ -1,0 +1,16 @@
+2023-10-24 21:20:58,005 : INFO : test_e2e : iphone X
+2023-10-24 21:20:58,018 : INFO : test_e2e : Samsung Note 8
+2023-10-24 21:20:58,032 : INFO : test_e2e : Nokia Edge
+2023-10-24 21:20:58,046 : INFO : test_e2e : Blackberry
+2023-10-24 21:20:58,256 : INFO : test_e2e : entering Ind
+2023-10-24 21:21:03,792 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 21:21:09,296 : INFO : test_formSubmission : clicking on submit button
+2023-10-24 21:21:09,411 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 21:21:10,968 : INFO : test_formSubmission : clicking on submit button
+2023-10-24 21:21:10,968 : INFO : test_formSubmission : clicking on submit button
+2023-10-24 21:21:11,046 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 21:21:11,046 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
